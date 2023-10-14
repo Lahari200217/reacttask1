@@ -12,10 +12,13 @@ function App() {
 export default App;
 
 
-// echo "# reacttask1" >> README.md
+
+
+
+// echo "# react-task1" >> README.md
 // git init
 // git add README.md
 // git commit -m "first commit"
 // git branch -M main
-// git remote add origin https://github.com/Lahari200217/reacttask1.git
+// git remote add origin https://github.com/nithin988/react-task1.git
 // git push -u origin main
